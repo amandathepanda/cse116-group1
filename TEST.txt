@@ -1,4 +1,4 @@
-TYPE YOUR NAME
+Type your name
 <<<<<<< HEAD
 Danny delannes-molka
 Nicole
