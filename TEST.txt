@@ -10,5 +10,9 @@ Nicole
 =======
 Sup Hi I'm Amanda
 Danny delannes-molka
+
+    => If this line appears on the Github, that means I have solved the conflict between my
+    => mac and Gui.
+    =>                                                       -----------Eric W
 >>>>>>> 11c6d8aa20063f3119624242f01c754780675378
 >>>>>>> 4daac7244138c7c0e0c59a399aff99ec1e5708ba
