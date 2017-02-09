@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 TYPE YOUR NAME
 Danny delannes-molka
 Eric Wang 
+=======
+Type your name
+<<<<<<< HEAD
+Danny delannes-molka
+Nicole
+=======
+Sup Hi I'm Amanda
+Danny delannes-molka
+>>>>>>> 11c6d8aa20063f3119624242f01c754780675378
+>>>>>>> 4daac7244138c7c0e0c59a399aff99ec1e5708ba
